@@ -4,7 +4,7 @@
 
 Tengo conocimientos para el desarrollo de páginas web. Actualmente, trabajo en Alar Computing en el área de soporte técnico de sistemas. 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React js 
