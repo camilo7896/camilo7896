@@ -41,8 +41,9 @@ Siempre estoy en la búsqueda de nuevas oportunidades de aprendizaje. Ya sea exp
 <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Icono de Conexión"/>https://www.linkedin.com/in/cristian-camilo-garcia/
 
  <img src="https://img.icons8.com/color/48/000000/email.png" alt="Icono de Correo Electrónico"/> ¿Quieres charlar sobre desarrollo, tecnología o simplemente saludar? ¡No dudes en enviarme un correo a [cg082490@gmail.com]
-
+<img src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Icono de Portafolio"/>Puedes visitar mi portafolio aqui: https://portfolio-cristian-garcia.netlify.app/
+<hr>
  <img src="https://img.icons8.com/color/48/000000/thank-you.png" alt="Icono de Agradecimiento"/>¡Gracias por visitar mi perfil y explorar mis proyectos! ¡Espero que encuentres algo inspirador aquí! 💻🚀
  
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/cristian-camilo-garcia-gutierrez-1713301a5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-6514.vercel.app/)  
+ 
 <hr>
